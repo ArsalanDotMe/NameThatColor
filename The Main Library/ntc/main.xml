@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Colors>
+  <color R="FF" G="A5" B="00">Orange</color>
+  <color R="00" G="80" B="00">Green</color>
+  <color R="00" G="FF" B="00">Lime</color>
+  <color R="80" G="80" B="00">Olive</color>
+<color R="FF" G="FF" B="00">Yellow</color>
+  <color R="00" G="00" B="80">Navy</color>
+<color R="00" G="00" B="FF">Blue</color>
+  <color R="00" G="80" B="80">Teal</color>
+  <color R="00" G="FF" B="FF">Aqua</color>
+<color R="00" G="00" B="00">Black</color>
+<color R="FF" G="FF" B="FF">White</color>
+  <color R="80" G="00" B="00">Maroon</color>
+<color R="FF" G="00" B="00">Red</color>
+<color R="A5" G="2A" B="2A">Brown</color>
+  <color R="96" G="71" B="17">Golden</color>
+  <color R="80" G="00" B="80">Purple</color>
+  <color R="FF" G="00" B="FF">Fuchsia</color>
+  <color R="80" G="80" B="80">Grey</color>
+<color R="C0" G="C0" B="C0">Silver</color>
+</Colors>

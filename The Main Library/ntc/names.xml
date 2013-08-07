@@ -1,0 +1,952 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Colors>
+  <color R="AC" G="C2" B="D9">Cloudy Blue</color>
+  <color R="56" G="AE" B="57">Dark Pastel Green</color>
+  <color R="B2" G="99" B="6E">Dust</color>
+  <color R="A8" G="FF" B="04">Electric Lime</color>
+  <color R="69" G="D8" B="4F">Fresh Green</color>
+  <color R="89" G="45" B="85">Light Eggplant</color>
+  <color R="70" G="B2" B="3F">Nasty Green</color>
+  <color R="D4" G="FF" B="FF">Really Light Blue</color>
+  <color R="65" G="AB" B="7C">Tea</color>
+  <color R="95" G="2E" B="8F">Warm Purple</color>
+  <color R="FC" G="FC" B="81">Yellowish Tan</color>
+  <color R="A5" G="A3" B="91">Cement</color>
+  <color R="38" G="80" B="04">Dark Grass Green</color>
+  <color R="4C" G="90" B="85">Dusty Teal</color>
+  <color R="5E" G="9B" B="8A">Grey Teal</color>
+  <color R="EF" G="B4" B="35">Macaroni And Cheese</color>
+  <color R="D9" G="9B" B="82">Pinkish Tan</color>
+  <color R="0A" G="5F" B="38">Spruce</color>
+  <color R="0C" G="06" B="F7">Strong Blue</color>
+  <color R="61" G="DE" B="2A">Toxic Green</color>
+  <color R="37" G="78" B="BF">Windows Blue</color>
+  <color R="22" G="42" B="C7">Blue Blue</color>
+  <color R="53" G="3C" B="C6">Blue With A Hint Of Purple</color>
+  <color R="9B" G="B5" B="3C">Booger</color>
+  <color R="05" G="FF" B="A6">Bright Sea Green</color>
+  <color R="1F" G="63" B="57">Dark Green Blue</color>
+  <color R="01" G="73" B="74">Deep Turquoise</color>
+  <color R="0C" G="B5" B="77">Green Teal</color>
+  <color R="FF" G="07" B="89">Strong Pink</color>
+  <color R="AF" G="A8" B="8B">Bland</color>
+  <color R="08" G="78" B="7F">Deep Aqua</color>
+  <color R="DD" G="85" B="D7">Lavender Pink</color>
+  <color R="A6" G="C8" B="75">Light Moss Green</color>
+  <color R="A7" G="FF" B="B5">Light Seafoam Green</color>
+  <color R="C2" G="B7" B="09">Olive Yellow</color>
+  <color R="E7" G="8E" B="A5">Pig Pink</color>
+  <color R="96" G="6E" B="BD">Deep Lilac</color>
+  <color R="CC" G="AD" B="60">Desert</color>
+  <color R="AC" G="86" B="A8">Dusty Lavender</color>
+  <color R="94" G="7E" B="94">Purpley Grey</color>
+  <color R="98" G="3F" B="B2">Purply</color>
+  <color R="FF" G="63" B="E9">Candy Pink</color>
+  <color R="B2" G="FB" B="A5">Light Pastel Green</color>
+  <color R="63" G="B3" B="65">Boring Green</color>
+  <color R="8E" G="E5" B="3F">Kiwi Green</color>
+  <color R="B7" G="E1" B="A1">Light Grey Green</color>
+  <color R="FF" G="6F" B="52">Orange Pink</color>
+  <color R="BD" G="F8" B="A3">Tea Green</color>
+  <color R="D3" G="B6" B="83">Very Light Brown</color>
+  <color R="FF" G="FC" B="C4">Egg Shell</color>
+  <color R="43" G="05" B="41">Eggplant Purple</color>
+  <color R="FF" G="B2" B="D0">Powder Pink</color>
+  <color R="99" G="75" B="70">Reddish Grey</color>
+  <color R="AD" G="90" B="0D">Baby Shit Brown</color>
+  <color R="C4" G="8E" B="FD">Liliac</color>
+  <color R="50" G="7B" B="9C">Stormy Blue</color>
+  <color R="7D" G="71" B="03">Ugly Brown</color>
+  <color R="FF" G="FD" B="78">Custard</color>
+  <color R="DA" G="46" B="7D">Darkish Pink</color>
+  <color R="41" G="02" B="00">Deep Brown</color>
+  <color R="C9" G="D1" B="79">Greenish Beige</color>
+  <color R="FF" G="FA" B="86">Manilla</color>
+  <color R="56" G="84" B="AE">Off Blue</color>
+  <color R="6B" G="7C" B="85">Battleship Grey</color>
+  <color R="6F" G="6C" B="0A">Browny Green</color>
+  <color R="7E" G="40" B="71">Bruise</color>
+  <color R="00" G="93" B="37">Kelley Green</color>
+  <color R="D0" G="E4" B="29">Sickly Yellow</color>
+  <color R="FF" G="F9" B="17">Sunny Yellow</color>
+  <color R="1D" G="5D" B="EC">Azul</color>
+  <color R="05" G="49" B="07">Darkgreen</color>
+  <color R="B5" G="CE" B="08">Green/Yellow</color>
+  <color R="8F" G="B6" B="7B">Lichen</color>
+  <color R="C8" G="FF" B="B0">Light Light Green</color>
+  <color R="FD" G="DE" B="6C">Pale Gold</color>
+  <color R="FF" G="DF" B="22">Sun Yellow</color>
+  <color R="A9" G="BE" B="70">Tan Green</color>
+  <color R="68" G="32" B="E3">Burple</color>
+  <color R="FD" G="B1" B="47">Butterscotch</color>
+  <color R="C7" G="AC" B="7D">Toupe</color>
+  <color R="FF" G="F3" B="9A">Dark Cream</color>
+  <color R="85" G="0E" B="04">Indian Red</color>
+  <color R="EF" G="C0" B="FE">Light Lavendar</color>
+  <color R="40" G="FD" B="14">Poison Green</color>
+  <color R="B6" G="C4" B="06">Baby Puke Green</color>
+  <color R="9D" G="FF" B="00">Bright Yellow Green</color>
+  <color R="3C" G="41" B="42">Charcoal Grey</color>
+  <color R="F2" G="AB" B="15">Squash</color>
+  <color R="AC" G="4F" B="06">Cinnamon</color>
+  <color R="C4" G="FE" B="82">Light Pea Green</color>
+  <color R="2C" G="FA" B="1F">Radioactive Green</color>
+  <color R="9A" G="62" B="00">Raw Sienna</color>
+  <color R="CA" G="9B" B="F7">Baby Purple</color>
+  <color R="87" G="5F" B="42">Cocoa</color>
+  <color R="3A" G="2E" B="FE">Light Royal Blue</color>
+  <color R="FD" G="8D" B="49">Orangeish</color>
+  <color R="8B" G="31" B="03">Rust Brown</color>
+  <color R="CB" G="A5" B="60">Sand Brown</color>
+  <color R="69" G="83" B="39">Swamp</color>
+  <color R="0C" G="DC" B="73">Tealish Green</color>
+  <color R="B7" G="52" B="03">Burnt Siena</color>
+  <color R="7F" G="8F" B="4E">Camo</color>
+  <color R="26" G="53" B="8D">Dusk Blue</color>
+  <color R="63" G="A9" B="50">Fern</color>
+  <color R="C8" G="7F" B="89">Old Rose</color>
+  <color R="B1" G="FC" B="99">Pale Light Green</color>
+  <color R="FF" G="9A" B="8A">Peachy Pink</color>
+  <color R="F6" G="68" B="8E">Rosy Pink</color>
+  <color R="76" G="FD" B="A8">Light Bluish Green</color>
+  <color R="53" G="FE" B="5C">Light Bright Green</color>
+  <color R="4E" G="FD" B="54">Light Neon Green</color>
+  <color R="A0" G="FE" B="BF">Light Seafoam</color>
+  <color R="7B" G="F2" B="DA">Tiffany Blue</color>
+  <color R="BC" G="F5" B="A6">Washed Out Green</color>
+  <color R="CA" G="6B" B="02">Browny Orange</color>
+  <color R="10" G="7A" B="B0">Nice Blue</color>
+  <color R="21" G="38" B="AB">Sapphire</color>
+  <color R="71" G="9F" B="91">Greyish Teal</color>
+  <color R="FD" G="B9" B="15">Orangey Yellow</color>
+  <color R="FE" G="FC" B="AF">Parchment</color>
+  <color R="FC" G="F6" B="79">Straw</color>
+  <color R="1D" G="02" B="00">Very Dark Brown</color>
+  <color R="CB" G="68" B="43">Terracota</color>
+  <color R="31" G="66" B="8A">Ugly Blue</color>
+  <color R="24" G="7A" B="FD">Clear Blue</color>
+  <color R="FF" G="FF" B="B6">Creme</color>
+  <color R="90" G="FD" B="A9">Foam Green</color>
+  <color R="86" G="A1" B="7D">Grey/Green</color>
+  <color R="FD" G="DC" B="5C">Light Gold</color>
+  <color R="78" G="D1" B="B6">Seafoam Blue</color>
+  <color R="13" G="BB" B="AF">Topaz</color>
+  <color R="FB" G="5F" B="FC">Violet Pink</color>
+  <color R="20" G="F9" B="86">Wintergreen</color>
+  <color R="FF" G="E3" B="6E">Yellow Tan</color>
+  <color R="9D" G="07" B="59">Dark Fuchsia</color>
+  <color R="3A" G="18" B="B1">Indigo Blue</color>
+  <color R="C2" G="FF" B="89">Light Yellowish Green</color>
+  <color R="D7" G="67" B="AD">Pale Magenta</color>
+  <color R="72" G="00" B="58">Rich Purple</color>
+  <color R="FF" G="DA" B="03">Sunflower Yellow</color>
+  <color R="01" G="C0" B="8D">Green/Blue</color>
+  <color R="AC" G="74" B="34">Leather</color>
+  <color R="01" G="46" B="00">Racing Green</color>
+  <color R="99" G="00" B="FA">Vivid Purple</color>
+  <color R="02" G="06" B="6F">Dark Royal Blue</color>
+  <color R="8E" G="76" B="18">Hazel</color>
+  <color R="D1" G="76" B="8F">Muted Pink</color>
+  <color R="96" G="B4" B="03">Booger Green</color>
+  <color R="FD" G="FF" B="63">Canary</color>
+  <color R="95" G="A3" B="A6">Cool Grey</color>
+  <color R="7F" G="68" B="4E">Dark Taupe</color>
+  <color R="75" G="19" B="73">Darkish Purple</color>
+  <color R="08" G="94" B="04">True Green</color>
+  <color R="FF" G="61" B="63">Coral Pink</color>
+  <color R="59" G="85" B="56">Dark Sage</color>
+  <color R="21" G="47" B="61">Dark Slate Blue</color>
+  <color R="3C" G="73" B="A8">Flat Blue</color>
+  <color R="BA" G="9E" B="88">Mushroom</color>
+  <color R="02" G="1B" B="F9">Rich Blue</color>
+  <color R="73" G="4A" B="65">Dirty Purple</color>
+  <color R="23" G="C4" B="8B">Greenblue</color>
+  <color R="8F" G="AE" B="22">Icky Green</color>
+  <color R="E6" G="F2" B="A2">Light Khaki</color>
+  <color R="4B" G="57" B="DB">Warm Blue</color>
+  <color R="D9" G="01" B="66">Dark Hot Pink</color>
+  <color R="01" G="54" B="82">Deep Sea Blue</color>
+  <color R="9D" G="02" B="16">Carmine</color>
+  <color R="72" G="8F" B="02">Dark Yellow Green</color>
+  <color R="FF" G="E5" B="AD">Pale Peach</color>
+  <color R="4E" G="05" B="50">Plum Purple</color>
+  <color R="F9" G="BC" B="08">Golden Rod</color>
+  <color R="FF" G="07" B="3A">Neon Red</color>
+  <color R="C7" G="79" B="86">Old Pink</color>
+  <color R="D6" G="FF" B="FE">Very Pale Blue</color>
+  <color R="FE" G="4B" B="03">Blood Orange</color>
+  <color R="FD" G="59" B="56">Grapefruit</color>
+  <color R="FC" G="E1" B="66">Sand Yellow</color>
+  <color R="B2" G="71" B="3D">Clay Brown</color>
+  <color R="1F" G="3B" B="4D">Dark Blue Grey</color>
+  <color R="69" G="9D" B="4C">Flat Green</color>
+  <color R="56" G="FC" B="A2">Light Green Blue</color>
+  <color R="FB" G="55" B="81">Warm Pink</color>
+  <color R="3E" G="82" B="FC">Dodger Blue</color>
+  <color R="A0" G="BF" B="16">Gross Green</color>
+  <color R="D6" G="FF" B="FA">Ice</color>
+  <color R="4F" G="73" B="8E">Metallic Blue</color>
+  <color R="FF" G="B1" B="9A">Pale Salmon</color>
+  <color R="5C" G="8B" B="15">Sap Green</color>
+  <color R="54" G="AC" B="68">Algae</color>
+  <color R="89" G="A0" B="B0">Bluey Grey</color>
+  <color R="7E" G="A0" B="7A">Greeny Grey</color>
+  <color R="1B" G="FC" B="06">Highlighter Green</color>
+  <color R="CA" G="FF" B="FB">Light Light Blue</color>
+  <color R="B6" G="FF" B="BB">Light Mint</color>
+  <color R="A7" G="5E" B="09">Raw Umber</color>
+  <color R="15" G="2E" B="FF">Vivid Blue</color>
+  <color R="8D" G="5E" B="B7">Deep Lavender</color>
+  <color R="5F" G="9E" B="8F">Dull Teal</color>
+  <color R="63" G="F7" B="B4">Light Greenish Blue</color>
+  <color R="60" G="66" B="02">Mud Green</color>
+  <color R="FC" G="86" B="AA">Pinky</color>
+  <color R="8C" G="00" B="34">Red Wine</color>
+  <color R="75" G="80" B="00">Shit Green</color>
+  <color R="AB" G="7E" B="4C">Tan Brown</color>
+  <color R="03" G="07" B="64">Darkblue</color>
+  <color R="FE" G="86" B="A4">Rosa</color>
+  <color R="D5" G="17" B="4E">Lipstick</color>
+  <color R="FE" G="D0" B="FC">Pale Mauve</color>
+  <color R="68" G="00" B="18">Claret</color>
+  <color R="FE" G="DF" B="08">Dandelion</color>
+  <color R="FE" G="42" B="0F">Orangered</color>
+  <color R="6F" G="7C" B="00">Poop Green</color>
+  <color R="CA" G="01" B="47">Ruby</color>
+  <color R="1B" G="24" B="31">Dark</color>
+  <color R="00" G="FB" B="B0">Greenish Turquoise</color>
+  <color R="DB" G="58" B="56">Pastel Red</color>
+  <color R="DD" G="D6" B="18">Piss Yellow</color>
+  <color R="41" G="FD" B="FE">Bright Cyan</color>
+  <color R="CF" G="52" B="4E">Dark Coral</color>
+  <color R="21" G="C3" B="6F">Algae Green</color>
+  <color R="A9" G="03" B="08">Darkish Red</color>
+  <color R="6E" G="10" B="05">Reddy Brown</color>
+  <color R="FE" G="82" B="8C">Blush Pink</color>
+  <color R="4B" G="61" B="13">Camouflage Green</color>
+  <color R="4D" G="A4" B="09">Lawn Green</color>
+  <color R="BE" G="AE" B="8A">Putty</color>
+  <color R="03" G="39" B="F8">Vibrant Blue</color>
+  <color R="A8" G="8F" B="59">Dark Sand</color>
+  <color R="5D" G="21" B="D0">Purple/Blue</color>
+  <color R="FE" G="B2" B="09">Saffron</color>
+  <color R="4E" G="51" B="8B">Twilight</color>
+  <color R="96" G="4E" B="02">Warm Brown</color>
+  <color R="85" G="A3" B="B2">Bluegrey</color>
+  <color R="FF" G="69" B="AF">Bubble Gum Pink</color>
+  <color R="C3" G="FB" B="F4">Duck Egg Blue</color>
+  <color R="2A" G="FE" B="B7">Greenish Cyan</color>
+  <color R="00" G="5F" B="6A">Petrol</color>
+  <color R="0C" G="17" B="93">Royal</color>
+  <color R="FF" G="FF" B="81">Butter</color>
+  <color R="F0" G="83" B="3A">Dusty Orange</color>
+  <color R="F1" G="F3" B="3F">Off Yellow</color>
+  <color R="B1" G="D2" B="7B">Pale Olive Green</color>
+  <color R="FC" G="82" B="4A">Orangish</color>
+  <color R="71" G="AA" B="34">Leaf</color>
+  <color R="B7" G="C9" B="E2">Light Blue Grey</color>
+  <color R="4B" G="01" B="01">Dried Blood</color>
+  <color R="A5" G="52" B="E6">Lightish Purple</color>
+  <color R="AF" G="2F" B="0D">Rusty Red</color>
+  <color R="8B" G="88" B="F8">Lavender Blue</color>
+  <color R="9A" G="F7" B="64">Light Grass Green</color>
+  <color R="A6" G="FB" B="B2">Light Mint Green</color>
+  <color R="FF" G="C5" B="12">Sunflower</color>
+  <color R="75" G="08" B="51">Velvet</color>
+  <color R="C1" G="4A" B="09">Brick Orange</color>
+  <color R="FE" G="2F" B="4A">Lightish Red</color>
+  <color R="02" G="03" B="E2">Pure Blue</color>
+  <color R="0A" G="43" B="7A">Twilight Blue</color>
+  <color R="A5" G="00" B="55">Violet Red</color>
+  <color R="AE" G="8B" B="0C">Yellowy Brown</color>
+  <color R="FD" G="79" B="8F">Carnation</color>
+  <color R="BF" G="AC" B="05">Muddy Yellow</color>
+  <color R="3E" G="AF" B="76">Dark Seafoam Green</color>
+  <color R="C7" G="47" B="67">Deep Rose</color>
+  <color R="B9" G="48" B="4E">Dusty Red</color>
+  <color R="64" G="7D" B="8E">Grey/Blue</color>
+  <color R="BF" G="FE" B="28">Lemon Lime</color>
+  <color R="D7" G="25" B="DE">Purple/Pink</color>
+  <color R="B2" G="97" B="05">Brown Yellow</color>
+  <color R="67" G="3A" B="3F">Purple Brown</color>
+  <color R="A8" G="7D" B="C2">Wisteria</color>
+  <color R="FA" G="FE" B="4B">Banana Yellow</color>
+  <color R="C0" G="02" B="2F">Lipstick Red</color>
+  <color R="0E" G="87" B="CC">Water Blue</color>
+  <color R="8D" G="84" B="68">Brown Grey</color>
+  <color R="AD" G="03" B="DE">Vibrant Purple</color>
+  <color R="8C" G="FF" B="9E">Baby Green</color>
+  <color R="94" G="AC" B="02">Barf Green</color>
+  <color R="C4" G="FF" B="F7">Eggshell Blue</color>
+  <color R="FD" G="EE" B="73">Sandy Yellow</color>
+  <color R="33" G="B8" B="64">Cool Green</color>
+  <color R="FF" G="F9" B="D0">Pale</color>
+  <color R="75" G="8D" B="A3">Blue/Grey</color>
+  <color R="F5" G="04" B="C9">Hot Magenta</color>
+  <color R="77" G="A1" B="B5">Greyblue</color>
+  <color R="87" G="56" B="E4">Purpley</color>
+  <color R="88" G="97" B="17">Baby Shit Green</color>
+  <color R="C2" G="7E" B="79">Brownish Pink</color>
+  <color R="01" G="73" B="71">Dark Aquamarine</color>
+  <color R="9F" G="83" B="03">Diarrhea</color>
+  <color R="F7" G="D5" B="60">Light Mustard</color>
+  <color R="BD" G="F6" B="FE">Pale Sky Blue</color>
+  <color R="75" G="B8" B="4F">Turtle Green</color>
+  <color R="9C" G="BB" B="04">Bright Olive</color>
+  <color R="29" G="46" B="5B">Dark Grey Blue</color>
+  <color R="69" G="60" B="06">Greeny Brown</color>
+  <color R="AD" G="F8" B="02">Lemon Green</color>
+  <color R="C1" G="C6" B="FC">Light Periwinkle</color>
+  <color R="35" G="AD" B="6B">Seaweed Green</color>
+  <color R="FF" G="FD" B="37">Sunshine Yellow</color>
+  <color R="A4" G="42" B="A0">Ugly Purple</color>
+  <color R="F3" G="61" B="96">Medium Pink</color>
+  <color R="94" G="77" B="06">Puke Brown</color>
+  <color R="FF" G="F4" B="F2">Very Light Pink</color>
+  <color R="1E" G="91" B="67">Viridian</color>
+  <color R="B5" G="C3" B="06">Bile</color>
+  <color R="FE" G="FF" B="7F">Faded Yellow</color>
+  <color R="CF" G="FD" B="BC">Very Pale Green</color>
+  <color R="0A" G="DD" B="08">Vibrant Green</color>
+  <color R="87" G="FD" B="05">Bright Lime</color>
+  <color R="1E" G="F8" B="76">Spearmint</color>
+  <color R="7B" G="FD" B="C7">Light Aquamarine</color>
+  <color R="BC" G="EC" B="AC">Light Sage</color>
+  <color R="BB" G="F9" B="0F">Yellowgreen</color>
+  <color R="AB" G="90" B="04">Baby Poo</color>
+  <color R="1F" G="B5" B="7A">Dark Seafoam</color>
+  <color R="00" G="55" B="5A">Deep Teal</color>
+  <color R="A4" G="84" B="AC">Heather</color>
+  <color R="C4" G="55" B="08">Rust Orange</color>
+  <color R="3F" G="82" B="9D">Dirty Blue</color>
+  <color R="54" G="8D" B="44">Fern Green</color>
+  <color R="C9" G="5E" B="FB">Bright Lilac</color>
+  <color R="3A" G="E5" B="7F">Weird Green</color>
+  <color R="01" G="67" B="95">Peacock Blue</color>
+  <color R="87" G="A9" B="22">Avocado Green</color>
+  <color R="F0" G="94" B="4D">Faded Orange</color>
+  <color R="5D" G="14" B="51">Grape Purple</color>
+  <color R="25" G="FF" B="29">Hot Green</color>
+  <color R="D0" G="FE" B="1D">Lime Yellow</color>
+  <color R="FF" G="A6" B="2B">Mango</color>
+  <color R="01" G="B4" B="4C">Shamrock</color>
+  <color R="FF" G="6C" B="B5">Bubblegum</color>
+  <color R="6B" G="42" B="47">Purplish Brown</color>
+  <color R="C7" G="C1" B="0C">Vomit Yellow</color>
+  <color R="B7" G="FF" B="FA">Pale Cyan</color>
+  <color R="AE" G="FF" B="6E">Key Lime</color>
+  <color R="EC" G="2D" B="01">Tomato Red</color>
+  <color R="76" G="FF" B="7B">Lightgreen</color>
+  <color R="73" G="00" B="39">Merlot</color>
+  <color R="04" G="03" B="48">Night Blue</color>
+  <color R="DF" G="4E" B="C8">Purpleish Pink</color>
+  <color R="6E" G="CB" B="3C">Apple</color>
+  <color R="8F" G="98" B="05">Baby Poop Green</color>
+  <color R="5E" G="DC" B="1F">Green Apple</color>
+  <color R="D9" G="4F" B="F5">Heliotrope</color>
+  <color R="C8" G="FD" B="3D">Yellow/Green</color>
+  <color R="07" G="0D" B="0D">Almost Black</color>
+  <color R="49" G="84" B="B8">Cool Blue</color>
+  <color R="51" G="B7" B="3B">Leafy Green</color>
+  <color R="AC" G="7E" B="04">Mustard Brown</color>
+  <color R="4E" G="54" B="81">Dusk</color>
+  <color R="87" G="6E" B="4B">Dull Brown</color>
+  <color R="58" G="BC" B="08">Frog Green</color>
+  <color R="2F" G="EF" B="10">Vivid Green</color>
+  <color R="2D" G="FE" B="54">Bright Light Green</color>
+  <color R="0A" G="FF" B="02">Fluro Green</color>
+  <color R="9C" G="EF" B="43">Kiwi</color>
+  <color R="18" G="D1" B="7B">Seaweed</color>
+  <color R="35" G="53" B="0A">Navy Green</color>
+  <color R="18" G="05" B="DB">Ultramarine Blue</color>
+  <color R="62" G="58" B="C4">Iris</color>
+  <color R="FF" G="96" B="4F">Pastel Orange</color>
+  <color R="FF" G="AB" B="0F">Yellowish Orange</color>
+  <color R="8F" G="8C" B="E7">Perrywinkle</color>
+  <color R="24" G="BC" B="A8">Tealish</color>
+  <color R="3F" G="01" B="2C">Dark Plum</color>
+  <color R="CB" G="F8" B="5F">Pear</color>
+  <color R="FF" G="72" B="4C">Pinkish Orange</color>
+  <color R="28" G="01" B="37">Midnight Purple</color>
+  <color R="B3" G="6F" B="F6">Light Urple</color>
+  <color R="48" G="C0" B="72">Dark Mint</color>
+  <color R="BC" G="CB" B="7A">Greenish Tan</color>
+  <color R="A8" G="41" B="5B">Light Burgundy</color>
+  <color R="06" G="B1" B="C4">Turquoise Blue</color>
+  <color R="CD" G="75" B="84">Ugly Pink</color>
+  <color R="F1" G="DA" B="7A">Sandy</color>
+  <color R="FF" G="04" B="90">Electric Pink</color>
+  <color R="80" G="5B" B="87">Muted Purple</color>
+  <color R="50" G="A7" B="47">Mid Green</color>
+  <color R="A8" G="A4" B="95">Greyish</color>
+  <color R="CF" G="FF" B="04">Neon Yellow</color>
+  <color R="FF" G="FF" B="7E">Banana</color>
+  <color R="FF" G="7F" B="A7">Carnation Pink</color>
+  <color R="EF" G="40" B="26">Tomato</color>
+  <color R="3C" G="99" B="92">Sea</color>
+  <color R="88" G="68" B="06">Muddy Brown</color>
+  <color R="04" G="F4" B="89">Turquoise Green</color>
+  <color R="FE" G="F6" B="9E">Buff</color>
+  <color R="CF" G="AF" B="7B">Fawn</color>
+  <color R="3B" G="71" B="9F">Muted Blue</color>
+  <color R="FD" G="C1" B="C5">Pale Rose</color>
+  <color R="20" G="C0" B="73">Dark Mint Green</color>
+  <color R="9B" G="5F" B="C0">Amethyst</color>
+  <color R="0F" G="9B" B="8E">Blue/Green</color>
+  <color R="74" G="28" B="02">Chestnut</color>
+  <color R="9D" G="B9" B="2C">Sick Green</color>
+  <color R="A4" G="BF" B="20">Pea</color>
+  <color R="CD" G="59" B="09">Rusty Orange</color>
+  <color R="AD" G="A5" B="87">Stone</color>
+  <color R="BE" G="01" B="3C">Rose Red</color>
+  <color R="B8" G="FF" B="EB">Pale Aqua</color>
+  <color R="DC" G="4D" B="01">Deep Orange</color>
+  <color R="A2" G="65" B="3E">Earth</color>
+  <color R="63" G="8B" B="27">Mossy Green</color>
+  <color R="41" G="9C" B="03">Grassy Green</color>
+  <color R="B1" G="FF" B="65">Pale Lime Green</color>
+  <color R="9D" G="BC" B="D4">Light Grey Blue</color>
+  <color R="FD" G="FD" B="FE">Pale Grey</color>
+  <color R="77" G="AB" B="56">Asparagus</color>
+  <color R="46" G="41" B="96">Blueberry</color>
+  <color R="99" G="01" B="47">Purple Red</color>
+  <color R="BE" G="FD" B="73">Pale Lime</color>
+  <color R="32" G="BF" B="84">Greenish Teal</color>
+  <color R="AF" G="6F" B="09">Caramel</color>
+  <color R="A0" G="02" B="5C">Deep Magenta</color>
+  <color R="FF" G="D8" B="B1">Light Peach</color>
+  <color R="7F" G="4E" B="1E">Milk Chocolate</color>
+  <color R="BF" G="9B" B="0C">Ocher</color>
+  <color R="6B" G="A3" B="53">Off Green</color>
+  <color R="F0" G="75" B="E6">Purply Pink</color>
+  <color R="7B" G="C8" B="F6">Lightblue</color>
+  <color R="47" G="5F" B="94">Dusky Blue</color>
+  <color R="F5" G="BF" B="03">Golden</color>
+  <color R="FF" G="FE" B="B6">Light Beige</color>
+  <color R="FF" G="FD" B="74">Butter Yellow</color>
+  <color R="89" G="5B" B="7B">Dusky Purple</color>
+  <color R="43" G="6B" B="AD">French Blue</color>
+  <color R="D0" G="C1" B="01">Ugly Yellow</color>
+  <color R="C6" G="F8" B="08">Greeny Yellow</color>
+  <color R="F4" G="36" B="05">Orangish Red</color>
+  <color R="02" G="C1" B="4D">Shamrock Green</color>
+  <color R="B2" G="5F" B="03">Orangish Brown</color>
+  <color R="2A" G="7E" B="19">Tree Green</color>
+  <color R="49" G="06" B="48">Deep Violet</color>
+  <color R="53" G="62" B="67">Gunmetal</color>
+  <color R="5A" G="06" B="EF">Blue/Purple</color>
+  <color R="CF" G="02" B="34">Cherry</color>
+  <color R="C4" G="A6" B="61">Sandy Brown</color>
+  <color R="97" G="8A" B="84">Warm Grey</color>
+  <color R="1F" G="09" B="54">Dark Indigo</color>
+  <color R="03" G="01" B="2D">Midnight</color>
+  <color R="2B" G="B1" B="79">Bluey Green</color>
+  <color R="C3" G="90" B="9B">Grey Pink</color>
+  <color R="A6" G="6F" B="B5">Soft Purple</color>
+  <color R="77" G="00" B="01">Blood</color>
+  <color R="92" G="2B" B="05">Brown Red</color>
+  <color R="7D" G="7F" B="7C">Medium Grey</color>
+  <color R="99" G="0F" B="4B">Berry</color>
+  <color R="8F" G="73" B="03">Poo</color>
+  <color R="C8" G="3C" B="B9">Purpley Pink</color>
+  <color R="FE" G="A9" B="93">Light Salmon</color>
+  <color R="AC" G="BB" B="0D">Snot</color>
+  <color R="C0" G="71" B="FE">Easter Purple</color>
+  <color R="CC" G="FD" B="7F">Light Yellow Green</color>
+  <color R="00" G="02" B="2E">Dark Navy Blue</color>
+  <color R="82" G="83" B="44">Drab</color>
+  <color R="FF" G="C5" B="CB">Light Rose</color>
+  <color R="AB" G="12" B="39">Rouge</color>
+  <color R="B0" G="05" B="4B">Purplish Red</color>
+  <color R="99" G="CC" B="04">Slime Green</color>
+  <color R="93" G="7C" B="00">Baby Poop</color>
+  <color R="01" G="95" B="29">Irish Green</color>
+  <color R="EF" G="1D" B="E7">Pink/Purple</color>
+  <color R="00" G="04" B="35">Dark Navy</color>
+  <color R="42" G="B3" B="95">Greeny Blue</color>
+  <color R="9D" G="57" B="83">Light Plum</color>
+  <color R="C8" G="AC" B="A9">Pinkish Grey</color>
+  <color R="C8" G="76" B="06">Dirty Orange</color>
+  <color R="AA" G="27" B="04">Rust Red</color>
+  <color R="E4" G="CB" B="FF">Pale Lilac</color>
+  <color R="FA" G="42" B="24">Orangey Red</color>
+  <color R="08" G="04" B="F9">Primary Blue</color>
+  <color R="5C" G="B2" B="00">Kermit Green</color>
+  <color R="76" G="42" B="4E">Brownish Purple</color>
+  <color R="6C" G="7A" B="0E">Murky Green</color>
+  <color R="FB" G="DD" B="7E">Wheat</color>
+  <color R="2A" G="01" B="34">Very Dark Purple</color>
+  <color R="04" G="4A" B="05">Bottle Green</color>
+  <color R="FD" G="46" B="59">Watermelon</color>
+  <color R="0D" G="75" B="F8">Deep Sky Blue</color>
+  <color R="FE" G="00" B="02">Fire Engine Red</color>
+  <color R="CB" G="9D" B="06">Yellow Ochre</color>
+  <color R="FB" G="7D" B="07">Pumpkin Orange</color>
+  <color R="B9" G="CC" B="81">Pale Olive</color>
+  <color R="ED" G="C8" B="FF">Light Lilac</color>
+  <color R="61" G="E1" B="60">Lightish Green</color>
+  <color R="8A" G="B8" B="FE">Carolina Blue</color>
+  <color R="92" G="0A" B="4E">Mulberry</color>
+  <color R="FE" G="02" B="A2">Shocking Pink</color>
+  <color R="9A" G="30" B="01">Auburn</color>
+  <color R="65" G="FE" B="08">Bright Lime Green</color>
+  <color R="BE" G="FD" B="B7">Celadon</color>
+  <color R="B1" G="72" B="61">Pinkish Brown</color>
+  <color R="88" G="5F" B="01">Poo Brown</color>
+  <color R="02" G="CC" B="FE">Bright Sky Blue</color>
+  <color R="C1" G="FD" B="95">Celery</color>
+  <color R="83" G="65" B="39">Dirt Brown</color>
+  <color R="FB" G="29" B="43">Strawberry</color>
+  <color R="84" G="B7" B="01">Dark Lime</color>
+  <color R="B6" G="63" B="25">Copper</color>
+  <color R="7F" G="51" B="12">Medium Brown</color>
+  <color R="5F" G="A0" B="52">Muted Green</color>
+  <color R="6D" G="ED" B="FD">Robin's Egg</color>
+  <color R="0B" G="F9" B="EA">Bright Aqua</color>
+  <color R="C7" G="60" B="FF">Bright Lavender</color>
+  <color R="FF" G="FF" B="CB">Ivory</color>
+  <color R="F6" G="CE" B="FC">Very Light Purple</color>
+  <color R="15" G="50" B="84">Light Navy</color>
+  <color R="F5" G="05" B="4F">Pink Red</color>
+  <color R="64" G="54" B="03">Olive Brown</color>
+  <color R="7A" G="59" B="01">Poop Brown</color>
+  <color R="A8" G="B5" B="04">Mustard Green</color>
+  <color R="3D" G="99" B="73">Ocean Green</color>
+  <color R="00" G="01" B="33">Very Dark Blue</color>
+  <color R="76" G="A9" B="73">Dusty Green</color>
+  <color R="2E" G="5A" B="88">Light Navy Blue</color>
+  <color R="0B" G="F7" B="7D">Minty Green</color>
+  <color R="BD" G="6C" B="48">Adobe</color>
+  <color R="AC" G="1D" B="B8">Barney</color>
+  <color R="2B" G="AF" B="6A">Jade Green</color>
+  <color R="26" G="F7" B="FD">Bright Light Blue</color>
+  <color R="AE" G="FD" B="6C">Light Lime</color>
+  <color R="9B" G="8F" B="55">Dark Khaki</color>
+  <color R="FF" G="AD" B="01">Orange Yellow</color>
+  <color R="C6" G="9C" B="04">Ocre</color>
+  <color R="F4" G="D0" B="54">Maize</color>
+  <color R="DE" G="9D" B="AC">Faded Pink</color>
+  <color R="05" G="48" B="0D">British Racing Green</color>
+  <color R="C9" G="AE" B="74">Sandstone</color>
+  <color R="60" G="46" B="0F">Mud Brown</color>
+  <color R="98" G="F6" B="B0">Light Sea Green</color>
+  <color R="8A" G="F1" B="FE">Robin Egg Blue</color>
+  <color R="2E" G="E8" B="BB">Aqua Marine</color>
+  <color R="11" G="87" B="5D">Dark Sea Green</color>
+  <color R="FD" G="B0" B="C0">Soft Pink</color>
+  <color R="B1" G="60" B="02">Orangey Brown</color>
+  <color R="F7" G="02" B="2A">Cherry Red</color>
+  <color R="D5" G="AB" B="09">Burnt Yellow</color>
+  <color R="86" G="77" B="5F">Brownish Grey</color>
+  <color R="C6" G="9F" B="59">Camel</color>
+  <color R="7A" G="68" B="7F">Purplish Grey</color>
+  <color R="04" G="2E" B="60">Marine</color>
+  <color R="C8" G="8D" B="94">Greyish Pink</color>
+  <color R="A5" G="FB" B="D5">Pale Turquoise</color>
+  <color R="FF" G="FE" B="71">Pastel Yellow</color>
+  <color R="62" G="41" B="C7">Bluey Purple</color>
+  <color R="FF" G="FE" B="40">Canary Yellow</color>
+  <color R="D3" G="49" B="4E">Faded Red</color>
+  <color R="98" G="5E" B="2B">Sepia</color>
+  <color R="A6" G="81" B="4C">Coffee</color>
+  <color R="FF" G="08" B="E8">Bright Magenta</color>
+  <color R="9D" G="76" B="51">Mocha</color>
+  <color R="FE" G="FF" B="CA">Ecru</color>
+  <color R="98" G="56" B="8D">Purpleish</color>
+  <color R="9E" G="00" B="3A">Cranberry</color>
+  <color R="28" G="7C" B="37">Darkish Green</color>
+  <color R="B9" G="69" B="02">Brown Orange</color>
+  <color R="BA" G="68" B="73">Dusky Rose</color>
+  <color R="FF" G="78" B="55">Melon</color>
+  <color R="94" G="B2" B="1C">Sickly Green</color>
+  <color R="C5" G="C9" B="C7">Silver</color>
+  <color R="66" G="1A" B="EE">Purply Blue</color>
+  <color R="61" G="40" B="EF">Purpleish Blue</color>
+  <color R="9B" G="E5" B="AA">Hospital Green</color>
+  <color R="7B" G="58" B="04">Shit Brown</color>
+  <color R="27" G="6A" B="B3">Mid Blue</color>
+  <color R="FE" G="B3" B="08">Amber</color>
+  <color R="8C" G="FD" B="7E">Easter Green</color>
+  <color R="64" G="88" B="EA">Soft Blue</color>
+  <color R="05" G="6E" B="EE">Cerulean Blue</color>
+  <color R="B2" G="7A" B="01">Golden Brown</color>
+  <color R="0F" G="FE" B="F9">Bright Turquoise</color>
+  <color R="FA" G="2A" B="55">Red Pink</color>
+  <color R="82" G="07" B="47">Red Purple</color>
+  <color R="7A" G="6A" B="4F">Greyish Brown</color>
+  <color R="F4" G="32" B="0C">Vermillion</color>
+  <color R="A1" G="39" B="05">Russet</color>
+  <color R="6F" G="82" B="8A">Steel Grey</color>
+  <color R="A5" G="5A" B="F4">Lighter Purple</color>
+  <color R="AD" G="0A" B="FD">Bright Violet</color>
+  <color R="00" G="45" B="77">Prussian Blue</color>
+  <color R="65" G="8D" B="6D">Slate Green</color>
+  <color R="CA" G="7B" B="80">Dirty Pink</color>
+  <color R="00" G="52" B="49">Dark Blue Green</color>
+  <color R="2B" G="5D" B="34">Pine</color>
+  <color R="BF" G="F1" B="28">Yellowy Green</color>
+  <color R="B5" G="94" B="10">Dark Gold</color>
+  <color R="29" G="76" B="BB">Bluish</color>
+  <color R="01" G="41" B="82">Darkish Blue</color>
+  <color R="BB" G="3F" B="3F">Dull Red</color>
+  <color R="FC" G="26" B="47">Pinky Red</color>
+  <color R="A8" G="79" B="00">Bronze</color>
+  <color R="82" G="CB" B="B2">Pale Teal</color>
+  <color R="66" G="7C" B="3E">Military Green</color>
+  <color R="FE" G="46" B="A5">Barbie Pink</color>
+  <color R="FE" G="83" B="CC">Bubblegum Pink</color>
+  <color R="94" G="A6" B="17">Pea Soup Green</color>
+  <color R="A8" G="89" B="05">Dark Mustard</color>
+  <color R="7F" G="5F" B="00">Shit</color>
+  <color R="9E" G="43" B="A2">Medium Purple</color>
+  <color R="06" G="2E" B="03">Very Dark Green</color>
+  <color R="8A" G="6E" B="45">Dirt</color>
+  <color R="CC" G="7A" B="8B">Dusky Pink</color>
+  <color R="9E" G="01" B="68">Red Violet</color>
+  <color R="FD" G="FF" B="38">Lemon Yellow</color>
+  <color R="C0" G="FA" B="8B">Pistachio</color>
+  <color R="EE" G="DC" B="5B">Dull Yellow</color>
+  <color R="7E" G="BD" B="01">Dark Lime Green</color>
+  <color R="3B" G="5B" B="92">Denim Blue</color>
+  <color R="01" G="88" B="9F">Teal Blue</color>
+  <color R="3D" G="7A" B="FD">Lightish Blue</color>
+  <color R="5F" G="34" B="E7">Purpley Blue</color>
+  <color R="6D" G="5A" B="CF">Light Indigo</color>
+  <color R="74" G="85" B="00">Swamp Green</color>
+  <color R="70" G="6C" B="11">Brown Green</color>
+  <color R="3C" G="00" B="08">Dark Maroon</color>
+  <color R="CB" G="00" B="F5">Hot Purple</color>
+  <color R="00" G="2D" B="04">Dark Forest Green</color>
+  <color R="65" G="8C" B="BB">Faded Blue</color>
+  <color R="74" G="95" B="51">Drab Green</color>
+  <color R="B9" G="FF" B="66">Light Lime Green</color>
+  <color R="9D" G="C1" B="00">Snot Green</color>
+  <color R="FA" G="EE" B="66">Yellowish</color>
+  <color R="7E" G="FB" B="B3">Light Blue Green</color>
+  <color R="7B" G="00" B="2C">Bordeaux</color>
+  <color R="C2" G="92" B="A1">Light Mauve</color>
+  <color R="01" G="7B" B="92">Ocean</color>
+  <color R="FC" G="C0" B="06">Marigold</color>
+  <color R="65" G="74" B="32">Muddy Green</color>
+  <color R="D8" G="86" B="3B">Dull Orange</color>
+  <color R="73" G="85" B="95">Steel</color>
+  <color R="AA" G="23" B="FF">Electric Purple</color>
+  <color R="08" G="FF" B="08">Fluorescent Green</color>
+  <color R="9B" G="7A" B="01">Yellowish Brown</color>
+  <color R="F2" G="9E" B="8E">Blush</color>
+  <color R="6F" G="C2" B="76">Soft Green</color>
+  <color R="FF" G="5B" B="00">Bright Orange</color>
+  <color R="FD" G="FF" B="52">Lemon</color>
+  <color R="86" G="6F" B="85">Purple Grey</color>
+  <color R="8F" G="FE" B="09">Acid Green</color>
+  <color R="EE" G="CF" B="FE">Pale Lavender</color>
+  <color R="51" G="0A" B="C9">Violet Blue</color>
+  <color R="4F" G="91" B="53">Light Forest Green</color>
+  <color R="9F" G="23" B="05">Burnt Red</color>
+  <color R="72" G="86" B="39">Khaki Green</color>
+  <color R="DE" G="0C" B="62">Cerise</color>
+  <color R="91" G="6E" B="99">Faded Purple</color>
+  <color R="FF" G="B1" B="6D">Apricot</color>
+  <color R="3C" G="4D" B="03">Dark Olive Green</color>
+  <color R="7F" G="70" B="53">Grey Brown</color>
+  <color R="77" G="92" B="6F">Green Grey</color>
+  <color R="01" G="0F" B="CC">True Blue</color>
+  <color R="CE" G="AE" B="FA">Pale Violet</color>
+  <color R="8F" G="99" B="FB">Periwinkle Blue</color>
+  <color R="C6" G="FC" B="FF">Light Sky Blue</color>
+  <color R="55" G="39" B="CC">Blurple</color>
+  <color R="54" G="4E" B="03">Green Brown</color>
+  <color R="01" G="7A" B="79">Bluegreen</color>
+  <color R="01" G="F9" B="C6">Bright Teal</color>
+  <color R="C9" G="B0" B="03">Brownish Yellow</color>
+  <color R="92" G="99" B="01">Pea Soup</color>
+  <color R="0B" G="55" B="09">Forest</color>
+  <color R="A0" G="04" B="98">Barney Purple</color>
+  <color R="20" G="00" B="B1">Ultramarine</color>
+  <color R="94" G="56" B="8C">Purplish</color>
+  <color R="C2" G="BE" B="0E">Puke Yellow</color>
+  <color R="74" G="8B" B="97">Bluish Grey</color>
+  <color R="66" G="5F" B="D1">Dark Periwinkle</color>
+  <color R="9C" G="6D" B="A5">Dark Lilac</color>
+  <color R="C4" G="42" B="40">Reddish</color>
+  <color R="A2" G="48" B="57">Light Maroon</color>
+  <color R="82" G="5F" B="87">Dusty Purple</color>
+  <color R="C9" G="64" B="3B">Terra Cotta</color>
+  <color R="90" G="B1" B="34">Avocado</color>
+  <color R="01" G="38" B="6A">Marine Blue</color>
+  <color R="25" G="A3" B="6F">Teal Green</color>
+  <color R="59" G="65" B="6D">Slate Grey</color>
+  <color R="75" G="FD" B="63">Lighter Green</color>
+  <color R="21" G="FC" B="0D">Electric Green</color>
+  <color R="5A" G="86" B="AD">Dusty Blue</color>
+  <color R="FE" G="C6" B="15">Golden Yellow</color>
+  <color R="FF" G="FD" B="01">Bright Yellow</color>
+  <color R="DF" G="C5" B="FE">Light Lavender</color>
+  <color R="B2" G="64" B="00">Umber</color>
+  <color R="7F" G="5E" B="00">Poop</color>
+  <color R="DE" G="7E" B="5D">Dark Peach</color>
+  <color R="04" G="82" B="43">Jungle Green</color>
+  <color R="FF" G="FF" B="D4">Eggshell</color>
+  <color R="3B" G="63" B="8C">Denim</color>
+  <color R="B7" G="94" B="00">Yellow Brown</color>
+  <color R="84" G="59" B="7E">Dull Purple</color>
+  <color R="41" G="19" B="00">Chocolate Brown</color>
+  <color R="7B" G="03" B="23">Wine Red</color>
+  <color R="04" G="D9" B="FF">Neon Blue</color>
+  <color R="66" G="7E" B="2C">Dirty Green</color>
+  <color R="FB" G="EE" B="AC">Light Tan</color>
+  <color R="D7" G="FF" B="FE">Ice Blue</color>
+  <color R="4E" G="74" B="96">Cadet Blue</color>
+  <color R="87" G="4C" B="62">Dark Mauve</color>
+  <color R="D5" G="FF" B="FF">Very Light Blue</color>
+  <color R="82" G="6D" B="8C">Grey Purple</color>
+  <color R="FF" G="BA" B="CD">Pastel Pink</color>
+  <color R="D1" G="FF" B="BD">Very Light Green</color>
+  <color R="44" G="8E" B="E4">Dark Sky Blue</color>
+  <color R="05" G="47" B="2A">Evergreen</color>
+  <color R="D5" G="86" B="9D">Dull Pink</color>
+  <color R="3D" G="07" B="34">Aubergine</color>
+  <color R="4A" G="01" B="00">Mahogany</color>
+  <color R="F8" G="48" B="1C">Reddish Orange</color>
+  <color R="02" G="59" B="0F">Deep Green</color>
+  <color R="89" G="A2" B="03">Vomit Green</color>
+  <color R="E0" G="3F" B="D8">Purple Pink</color>
+  <color R="D5" G="8A" B="94">Dusty Pink</color>
+  <color R="7B" G="B2" B="74">Faded Green</color>
+  <color R="52" G="65" B="25">Camo Green</color>
+  <color R="C9" G="4C" B="BE">Pinky Purple</color>
+  <color R="DB" G="4B" B="DA">Pink Purple</color>
+  <color R="9E" G="36" B="23">Brownish Red</color>
+  <color R="B5" G="48" B="5D">Dark Rose</color>
+  <color R="73" G="5C" B="12">Mud</color>
+  <color R="9C" G="6D" B="57">Brownish</color>
+  <color R="02" G="8F" B="1E">Emerald Green</color>
+  <color R="B1" G="91" B="6E">Pale Brown</color>
+  <color R="49" G="75" B="9C">Dull Blue</color>
+  <color R="A0" G="45" B="0E">Burnt Umber</color>
+  <color R="39" G="AD" B="48">Medium Green</color>
+  <color R="B6" G="6A" B="50">Clay</color>
+  <color R="8C" G="FF" B="DB">Light Aqua</color>
+  <color R="A4" G="BE" B="5C">Light Olive Green</color>
+  <color R="CB" G="77" B="23">Brownish Orange</color>
+  <color R="05" G="69" B="6B">Dark Aqua</color>
+  <color R="CE" G="5D" B="AE">Purplish Pink</color>
+  <color R="C8" G="5A" B="53">Dark Salmon</color>
+  <color R="96" G="AE" B="8D">Greenish Grey</color>
+  <color R="1F" G="A7" B="74">Jade</color>
+  <color R="7A" G="97" B="03">Ugly Green</color>
+  <color R="AC" G="93" B="62">Dark Beige</color>
+  <color R="01" G="A0" B="49">Emerald</color>
+  <color R="D9" G="54" B="4D">Pale Red</color>
+  <color R="FA" G="5F" B="F7">Light Magenta</color>
+  <color R="82" G="CA" B="FC">Sky</color>
+  <color R="AC" G="FF" B="FC">Light Cyan</color>
+  <color R="FC" G="B0" B="01">Yellow Orange</color>
+  <color R="91" G="09" B="51">Reddish Purple</color>
+  <color R="FE" G="2C" B="54">Reddish Pink</color>
+  <color R="C8" G="75" B="C4">Orchid</color>
+  <color R="CD" G="C5" B="0A">Dirty Yellow</color>
+  <color R="FD" G="41" B="1E">Orange Red</color>
+  <color R="9A" G="02" B="00">Deep Red</color>
+  <color R="BE" G="64" B="00">Orange Brown</color>
+  <color R="03" G="0A" B="A7">Cobalt Blue</color>
+  <color R="FE" G="01" B="9A">Neon Pink</color>
+  <color R="F7" G="87" B="9A">Rose Pink</color>
+  <color R="88" G="71" B="91">Greyish Purple</color>
+  <color R="B0" G="01" B="49">Raspberry</color>
+  <color R="12" G="E1" B="93">Aqua Green</color>
+  <color R="FE" G="7B" B="7C">Salmon Pink</color>
+  <color R="FF" G="94" B="08">Tangerine</color>
+  <color R="6A" G="6E" B="09">Brownish Green</color>
+  <color R="8B" G="2E" B="16">Red Brown</color>
+  <color R="69" G="61" B="12">Greenish Brown</color>
+  <color R="E1" G="77" B="01">Pumpkin</color>
+  <color R="0A" G="48" B="1E">Pine Green</color>
+  <color R="34" G="38" B="37">Charcoal</color>
+  <color R="FF" G="B7" B="CE">Baby Pink</color>
+  <color R="6A" G="79" B="F7">Cornflower</color>
+  <color R="5D" G="06" B="E9">Blue Violet</color>
+  <color R="3D" G="1C" B="02">Chocolate</color>
+  <color R="82" G="A6" B="7D">Greyish Green</color>
+  <color R="BE" G="01" B="19">Scarlet</color>
+  <color R="C9" G="FF" B="27">Green Yellow</color>
+  <color R="37" G="3E" B="02">Dark Olive</color>
+  <color R="A9" G="56" B="1E">Sienna</color>
+  <color R="CA" G="A0" B="FF">Pastel Purple</color>
+  <color R="CA" G="66" B="41">Terracotta</color>
+  <color R="02" G="D8" B="E9">Aqua Blue</color>
+  <color R="88" G="B3" B="78">Sage Green</color>
+  <color R="98" G="00" B="02">Blood Red</color>
+  <color R="CB" G="01" B="62">Deep Pink</color>
+  <color R="5C" G="AC" B="2D">Grass</color>
+  <color R="76" G="99" B="58">Moss</color>
+  <color R="A2" G="BF" B="FE">Pastel Blue</color>
+  <color R="10" G="A6" B="74">Bluish Green</color>
+  <color R="06" G="B4" B="8B">Green Blue</color>
+  <color R="AF" G="88" B="4A">Dark Tan</color>
+  <color R="0B" G="8B" B="87">Greenish Blue</color>
+  <color R="FF" G="A7" B="56">Pale Orange</color>
+  <color R="A2" G="A4" B="15">Vomit</color>
+  <color R="15" G="44" B="06">Forrest Green</color>
+  <color R="85" G="67" B="98">Dark Lavender</color>
+  <color R="34" G="01" B="3F">Dark Violet</color>
+  <color R="63" G="2D" B="E9">Purple Blue</color>
+  <color R="0A" G="88" B="8A">Dark Cyan</color>
+  <color R="6F" G="76" B="32">Olive Drab</color>
+  <color R="D4" G="6A" B="7E">Pinkish</color>
+  <color R="1E" G="48" B="8F">Cobalt</color>
+  <color R="BC" G="13" B="FE">Neon Purple</color>
+  <color R="7E" G="F4" B="CC">Light Turquoise</color>
+  <color R="76" G="CD" B="26">Apple Green</color>
+  <color R="74" G="A6" B="62">Dull Green</color>
+  <color R="80" G="01" B="3F">Wine</color>
+  <color R="B1" G="D1" B="FC">Powder Blue</color>
+  <color R="FF" G="FF" B="E4">Off White</color>
+  <color R="06" G="52" B="FF">Electric Blue</color>
+  <color R="04" G="5C" B="5A">Dark Turquoise</color>
+  <color R="57" G="29" B="CE">Blue Purple</color>
+  <color R="06" G="9A" B="F3">Azure</color>
+  <color R="FF" G="00" B="0D">Bright Red</color>
+  <color R="F1" G="0C" B="45">Pinkish Red</color>
+  <color R="51" G="70" B="D7">Cornflower Blue</color>
+  <color R="AC" G="BF" B="69">Light Olive</color>
+  <color R="6C" G="34" B="61">Grape</color>
+  <color R="5E" G="81" B="9D">Greyish Blue</color>
+  <color R="60" G="1E" B="F9">Purplish Blue</color>
+  <color R="B0" G="DD" B="16">Yellowish Green</color>
+  <color R="CD" G="FD" B="02">Greenish Yellow</color>
+  <color R="2C" G="6F" B="BB">Medium Blue</color>
+  <color R="C0" G="73" B="7A">Dusty Rose</color>
+  <color R="D6" G="B4" B="FC">Light Violet</color>
+  <color R="02" G="00" B="35">Midnight Blue</color>
+  <color R="70" G="3B" B="E7">Bluish Purple</color>
+  <color R="FD" G="3C" B="06">Red Orange</color>
+  <color R="96" G="00" B="56">Dark Magenta</color>
+  <color R="40" G="A3" B="68">Greenish</color>
+  <color R="03" G="71" B="9C">Ocean Blue</color>
+  <color R="FC" G="5A" B="50">Coral</color>
+  <color R="FF" G="FF" B="C2">Cream</color>
+  <color R="7F" G="2B" B="0A">Reddish Brown</color>
+  <color R="B0" G="4E" B="0F">Burnt Sienna</color>
+  <color R="A0" G="36" B="23">Brick</color>
+  <color R="87" G="AE" B="73">Sage</color>
+  <color R="78" G="9B" B="73">Grey Green</color>
+  <color R="FF" G="FF" B="FF">White</color>
+  <color R="98" G="EF" B="F9">Robin's Egg Blue</color>
+  <color R="65" G="8B" B="38">Moss Green</color>
+  <color R="5A" G="7D" B="9A">Steel Blue</color>
+  <color R="38" G="08" B="35">Eggplant</color>
+  <color R="FF" G="FE" B="7A">Light Yellow</color>
+  <color R="5C" G="A9" B="04">Leaf Green</color>
+  <color R="D8" G="DC" B="D6">Light Grey</color>
+  <color R="A5" G="A5" B="02">Puke</color>
+  <color R="D6" G="48" B="D7">Pinkish Purple</color>
+  <color R="04" G="74" B="95">Sea Blue</color>
+  <color R="B7" G="90" B="D4">Pale Purple</color>
+  <color R="5B" G="7C" B="99">Slate Blue</color>
+  <color R="60" G="7C" B="8E">Blue Grey</color>
+  <color R="0B" G="40" B="08">Hunter Green</color>
+  <color R="ED" G="0D" B="D9">Fuchsia</color>
+  <color R="8C" G="00" B="0F">Crimson</color>
+  <color R="FF" G="FF" B="84">Pale Yellow</color>
+  <color R="BF" G="90" B="05">Ochre</color>
+  <color R="D2" G="BD" B="0A">Mustard Yellow</color>
+  <color R="FF" G="47" B="4C">Light Red</color>
+  <color R="04" G="85" B="D1">Cerulean</color>
+  <color R="FF" G="CF" B="DC">Pale Pink</color>
+  <color R="04" G="02" B="73">Deep Blue</color>
+  <color R="A8" G="3C" B="09">Rust</color>
+  <color R="90" G="E4" B="C1">Light Teal</color>
+  <color R="51" G="65" B="72">Slate</color>
+  <color R="FA" G="C2" B="05">Goldenrod</color>
+  <color R="D5" G="B6" B="0A">Dark Yellow</color>
+  <color R="36" G="37" B="37">Dark Grey</color>
+  <color R="4B" G="5D" B="16">Army Green</color>
+  <color R="6B" G="8B" B="A4">Grey Blue</color>
+  <color R="80" G="F9" B="AD">Seafoam</color>
+  <color R="A5" G="7E" B="52">Puce</color>
+  <color R="A9" G="F9" B="71">Spring Green</color>
+  <color R="C6" G="51" B="02">Dark Orange</color>
+  <color R="E2" G="CA" B="76">Sand</color>
+  <color R="B0" G="FF" B="9D">Pastel Green</color>
+  <color R="9F" G="FE" B="B0">Mint</color>
+  <color R="FD" G="AA" B="48">Light Orange</color>
+  <color R="FE" G="01" B="B1">Bright Pink</color>
+  <color R="C1" G="F8" B="0A">Chartreuse</color>
+  <color R="36" G="01" B="3F">Deep Purple</color>
+  <color R="34" G="1C" B="02">Dark Brown</color>
+  <color R="B9" G="A2" B="81">Taupe</color>
+  <color R="8E" G="AB" B="12">Pea Green</color>
+  <color R="9A" G="AE" B="07">Puke Green</color>
+  <color R="02" G="AB" B="2E">Kelly Green</color>
+  <color R="7A" G="F9" B="AB">Seafoam Green</color>
+  <color R="13" G="7E" B="6D">Blue Green</color>
+  <color R="AA" G="A6" B="62">Khaki</color>
+  <color R="61" G="00" B="23">Burgundy</color>
+  <color R="01" G="4D" B="4E">Dark Teal</color>
+  <color R="8F" G="14" B="02">Brick Red</color>
+  <color R="4B" G="00" B="6E">Royal Purple</color>
+  <color R="58" G="0F" B="41">Plum</color>
+  <color R="8F" G="FF" B="9F">Mint Green</color>
+  <color R="DB" G="B4" B="0C">Gold</color>
+  <color R="A2" G="CF" B="FE">Baby Blue</color>
+  <color R="C0" G="FB" B="2D">Yellow Green</color>
+  <color R="BE" G="03" B="FD">Bright Purple</color>
+  <color R="84" G="00" B="00">Dark Red</color>
+  <color R="D0" G="FE" B="FE">Pale Blue</color>
+  <color R="3F" G="9B" B="0B">Grass Green</color>
+  <color R="01" G="15" B="3E">Navy</color>
+  <color R="04" G="D8" B="B2">Aquamarine</color>
+  <color R="C0" G="4E" B="01">Burnt Orange</color>
+  <color R="0C" G="FF" B="0C">Neon Green</color>
+  <color R="01" G="65" B="FC">Bright Blue</color>
+  <color R="CF" G="62" B="75">Rose</color>
+  <color R="FF" G="D1" B="DF">Light Pink</color>
+  <color R="CE" G="B3" B="01">Mustard</color>
+  <color R="38" G="02" B="82">Indigo</color>
+  <color R="AA" G="FF" B="32">Lime</color>
+  <color R="53" G="FC" B="A1">Sea Green</color>
+  <color R="8E" G="82" B="FE">Periwinkle</color>
+  <color R="CB" G="41" B="6B">Dark Pink</color>
+  <color R="67" G="7A" B="04">Olive Green</color>
+  <color R="FF" G="B0" B="7C">Peach</color>
+  <color R="C7" G="FD" B="B5">Pale Green</color>
+  <color R="AD" G="81" B="50">Light Brown</color>
+  <color R="FF" G="02" B="8D">Hot Pink</color>
+  <color R="00" G="00" B="00">Black</color>
+  <color R="CE" G="A2" B="FD">Lilac</color>
+  <color R="00" G="11" B="46">Navy Blue</color>
+  <color R="05" G="04" B="AA">Royal Blue</color>
+  <color R="E6" G="DA" B="A6">Beige</color>
+  <color R="FF" G="79" B="6C">Salmon</color>
+  <color R="6E" G="75" B="0E">Olive</color>
+  <color R="65" G="00" B="21">Maroon</color>
+  <color R="01" G="FF" B="07">Bright Green</color>
+  <color R="35" G="06" B="3E">Dark Purple</color>
+  <color R="AE" G="71" B="81">Mauve</color>
+  <color R="06" G="47" B="0C">Forest Green</color>
+  <color R="13" G="EA" B="C9">Aqua</color>
+  <color R="00" G="FF" B="FF">Cyan</color>
+  <color R="D1" G="B2" B="6F">Tan</color>
+  <color R="00" G="03" B="5B">Dark Blue</color>
+  <color R="C7" G="9F" B="EF">Lavender</color>
+  <color R="06" G="C2" B="AC">Turquoise</color>
+  <color R="03" G="35" B="00">Dark Green</color>
+  <color R="9A" G="0E" B="EA">Violet</color>
+  <color R="BF" G="77" B="F6">Light Purple</color>
+  <color R="89" G="FE" B="05">Lime Green</color>
+  <color R="92" G="95" B="91">Grey</color>
+  <color R="75" G="BB" B="FD">Sky Blue</color>
+  <color R="FF" G="FF" B="14">Yellow</color>
+  <color R="C2" G="00" B="78">Magenta</color>
+  <color R="96" G="F9" B="7B">Light Green</color>
+  <color R="F9" G="73" B="06">Orange</color>
+  <color R="02" G="93" B="86">Teal</color>
+  <color R="95" G="D0" B="FC">Light Blue</color>
+  <color R="E5" G="00" B="00">Red</color>
+  <color R="65" G="37" B="00">Brown</color>
+  <color R="FF" G="81" B="C0">Pink</color>
+  <color R="03" G="43" B="DF">Blue</color>
+  <color R="15" G="B0" B="1A">Green</color>
+  <color R="7E" G="1E" B="9C">Purple</color>
+</Colors>

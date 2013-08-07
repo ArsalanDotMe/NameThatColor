@@ -1,0 +1,7 @@
+C:\Users\Arsalan\Documents\GitHub\NameThatColor\Sample Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Arsalan\Documents\GitHub\NameThatColor\Sample Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Arsalan\Documents\GitHub\NameThatColor\Sample Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Arsalan\Documents\GitHub\NameThatColor\Sample Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ntc.dll
+C:\Users\Arsalan\Documents\GitHub\NameThatColor\Sample Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ntc.pdb
+C:\Users\Arsalan\Documents\GitHub\NameThatColor\Sample Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Arsalan\Documents\GitHub\NameThatColor\Sample Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

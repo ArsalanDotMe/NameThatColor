@@ -1,0 +1,5 @@
+C:\Users\Arsalan\Documents\Visual Studio 2012\Projects\current\ntc\ntc\bin\Debug\ntc.dll
+C:\Users\Arsalan\Documents\Visual Studio 2012\Projects\current\ntc\ntc\bin\Debug\ntc.pdb
+C:\Users\Arsalan\Documents\Visual Studio 2012\Projects\current\ntc\ntc\obj\Debug\ntc.csprojResolveAssemblyReference.cache
+C:\Users\Arsalan\Documents\Visual Studio 2012\Projects\current\ntc\ntc\obj\Debug\ntc.dll
+C:\Users\Arsalan\Documents\Visual Studio 2012\Projects\current\ntc\ntc\obj\Debug\ntc.pdb

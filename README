@@ -1,0 +1,8 @@
+NameThatColor Portable Class Library
+
+This is a .NET Portable Class Library that returns a color name for a hashcode. 
+Usage:
+
+    Include a reference to the library (NTC with namespace NameThatColor) in your project.
+    Create an NTC object using the default constructor.
+    Get the name of a color by using the function getColorName(byte R, byte G, byte B)
